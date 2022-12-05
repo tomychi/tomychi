@@ -10,12 +10,15 @@ Check out my [my website](https://tomychi.github.io/my-first-portfolio/) to get 
 
 ## My tech stack
 
--   ![html](assets/html.svg)
--   ![css](assets/css.svg)
--   ![javascript](assets/javascript.svg)
--   ![react](assets/react.svg)
--   ![node](assets/node.svg)
--   ![firebase](assets/firebase.svg)
--   ![postgresql](assets/postgresql.svg)
--   ![mongodb](assets/mongo.svg)
--   ![typescript](assets/typescript.svg)
+<!-- dejar espacio entre icono -->
+
+![html](assets/html.svg)
+![css](assets/css.svg)
+![javascript](assets/javascript.svg)
+![react](assets/react.svg)
+![node](assets/node.svg)
+![firebase](assets/firebase.svg)
+![postgresql](assets/postgresql.svg)
+![mongodb](assets/mongo.svg)
+![typescript](assets/typescript.svg)
+![astro](assets/astro.svg)
