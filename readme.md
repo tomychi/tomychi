@@ -16,7 +16,7 @@ I'm also studying Next.js. I love writing it code, and I'm a fan of the React.js
 -   [Twitter](https://twitter.com/Tomychi1)
 -   [Instagram](https://www.instagram.com/tomas.arcostanzo/)
 -   [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-arcostanzo-4a1b50162/)
--   [My website](https://tomasarcostanzo.vercel.app/) you can see my portfolio. 👀
+-   [My website](https://tomychi.github.io/tomas-arcostanzo/) you can see my portfolio. 👀
 
 ## 📚 About current project
 
@@ -24,7 +24,7 @@ I'm currently working on a project called [Gusto](https://www.instagram.com/gana
 
 ## 📜 For more information
 
-Check out my [my website](https://tomychi.github.io/my-first-portfolio/) to get to know more about me., and my social media accounts.
+Check out my [my website](https://tomychi.github.io/tomas-arcostanzo/) to get to know more about me., and my social media accounts.
 
 ## 💻 Technologies
 
